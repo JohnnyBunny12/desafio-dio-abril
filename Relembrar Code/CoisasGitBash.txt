@@ -1,0 +1,5 @@
+Coisas para lembrar:
+" git status " para conferir o main branch;
+" git add . " ou " git add -A " para adicionar todos os arquivos ao stage
+" git commit -m '' " Comando para fazer um commit (-m para deixar claro em o que está mudando)
+" git push origin main " Para empurrar tudo para o Github, sendo necessário se quiser deixar público
